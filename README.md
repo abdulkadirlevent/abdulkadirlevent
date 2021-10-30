@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi Merhaba 👋
+🔭 Şu anda üzerinde çalışıyorum ...
+
 
 <!--
 **abdulkadirlevent/abdulkadirlevent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
