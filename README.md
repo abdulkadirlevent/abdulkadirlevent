@@ -1,4 +1,4 @@
-### Hi Merhaba 👋
+### Merhaba  👋
 🔭 Şu anda üzerinde çalışıyorum ...
 
 
