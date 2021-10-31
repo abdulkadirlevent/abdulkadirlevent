@@ -1,5 +1,5 @@
- ## Merhaba ben [Abdulkadir LEVENT!](https://leventler.net) 👋  👋
-🔭 Şu anda üzerinde çalışıyorum ...
+ ## Merhaba [Abdulkadir LEVENT!](https://leventler.net)   👋
+🔭 Şu anda üzerinde çalışıyorum ... 👋
 
 **Languages and Tools:**  
 
