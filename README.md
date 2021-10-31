@@ -2,6 +2,10 @@
 🔭 Şu anda üzerinde çalışıyorum ...
 
 
+<a href="https://github.com/abdulkadirlevent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadirlevent&theme=light&hide_langs_below=1" />
+</a>
+
 <!--
 **abdulkadirlevent/abdulkadirlevent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
