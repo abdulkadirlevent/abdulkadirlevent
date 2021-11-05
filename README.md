@@ -15,9 +15,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadirlevent&theme=algolia)](https://github.com/abdulkadirlevent)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=algolia)](https://github.com/abdulkadirlevent/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdulkadirlevent&theme=algolia)](https://github.com/abdulkadirlevent/github-readme-stats)
 
 
+willianrod
 
  ### Show some ❤️ by starring some of the repositories!
 
