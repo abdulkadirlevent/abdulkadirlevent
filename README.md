@@ -2,7 +2,8 @@
 <h1 align="right" >
   <img src="https://raw.githubusercontent.com/abdulkadirlevent/abdulkadirlevent/master/name.svg" alt="Abdulkadir LEVENT" />
 </h1>
- ## Merhaba [Abdulkadir LEVENT!](https://leventler.net)   👋
+
+ ## Merhaba [Abdulkadir LEVENT!](https://leventler.net) 👋
  
 🔭 Şu anda üzerinde çalışıyorum ... 👋
 
