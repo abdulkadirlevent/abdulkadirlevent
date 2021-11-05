@@ -14,6 +14,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadirlevent&theme=algolia)](https://github.com/abdulkadirlevent)
 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulkadirlevent&theme=algolia)]('Aşağı yukarı hep aynı')
+
+
  ### Show some ❤️ by starring some of the repositories!
 
 <!--
