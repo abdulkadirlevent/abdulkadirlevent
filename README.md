@@ -1,12 +1,10 @@
  <img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/abdulkadirlevent/abdulkadirlevent/master/avatar.png"/>
 
- ## Merhaba  👋
-
- <h1 align="center">
+ <h1 align="right">
   <img src="https://raw.githubusercontent.com/abdulkadirlevent/abdulkadirlevent/master/name.svg" alt="Abdulkadir LEVENT" />
 </h1>
 
- ## Ben [Abdulkadir LEVENT!](https://leventler.net)   👋
+ ## Merhaba [Abdulkadir LEVENT!](https://leventler.net)   👋
  
 🔭 Şu anda üzerinde çalışıyorum ... 👋
 
