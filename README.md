@@ -14,7 +14,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadirlevent&theme=algolia)](https://github.com/abdulkadirlevent)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/abdulkadirlevent?username=abdulkadirlevent)](https://github.com/abdulkadirlevent/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/abdulkadirlevent/github-readme-stats)
 
 
 
