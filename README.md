@@ -1,6 +1,7 @@
 <img align="left" width="150" height="150" alt="Abdulkadir LEVENT" src="https://raw.githubusercontent.com/abdulkadirlevent/abdulkadirlevent/master/avatar.png"/>
-<img align="right" src="https://raw.githubusercontent.com/abdulkadirlevent/abdulkadirlevent/master/name.svg" alt="Abdulkadir LEVENT" />
-
+<h1 align="right" >
+  <imgsrc="https://raw.githubusercontent.com/abdulkadirlevent/abdulkadirlevent/master/name.svg" alt="Abdulkadir LEVENT" />
+</h1>
  ## Merhaba [Abdulkadir LEVENT!](https://leventler.net)   👋
  
 🔭 Şu anda üzerinde çalışıyorum ... 👋
