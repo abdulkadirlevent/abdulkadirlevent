@@ -1,4 +1,5 @@
- <img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/abdulkadirlevent/abdulkadirlevent/master/avatar.png"/>
+ <h1 align="right">
+ <img align="left" width="150" height="150" alt="Abdulkadir LEVENT" src="https://raw.githubusercontent.com/abdulkadirlevent/abdulkadirlevent/master/avatar.png"/>
 
  <h1 align="right">
   <img src="https://raw.githubusercontent.com/abdulkadirlevent/abdulkadirlevent/master/name.svg" alt="Abdulkadir LEVENT" />
