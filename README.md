@@ -14,10 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadirlevent&theme=algolia)](https://github.com/abdulkadirlevent)
 
-<a href="https://github.com/abdulkadirlevent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadirlevent&theme=light&hide_langs_below=1" />
-</a>
-
  ### Show some ❤️ by starring some of the repositories!
 
 <!--
