@@ -9,6 +9,8 @@
 
 [![abdulkadirlevent github stats](https://github-readme-stats.vercel.app/api?username=abdulkadirlevent&show_icons=true&theme=algolia)](https://github.com/abdulkadirlevent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadirlevent&theme=algolia)](https://github.com/abdulkadirlevent)
+
 ## 🚀💻 Technologies & Tools
 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -34,7 +36,6 @@
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadirlevent&theme=algolia)](https://github.com/abdulkadirlevent)
 
  ### Show some ❤️ by starring some of the repositories!
 
