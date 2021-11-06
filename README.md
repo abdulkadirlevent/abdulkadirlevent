@@ -20,8 +20,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadirlevent&theme=algolia)](https://github.com/abdulkadirlevent)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdulkadirlevent&theme=algolia)](https://github.com/abdulkadirlevent/shop-app-with-getx)
-
  ### Show some ❤️ by starring some of the repositories!
 
 <!--
