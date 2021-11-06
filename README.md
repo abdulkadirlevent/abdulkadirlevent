@@ -20,9 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadirlevent&theme=algolia)](https://github.com/abdulkadirlevent)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=algolia)](https://github.com/abdulkadirlevent/shop-app-with-getx)
-
-<a href="https://github.com/abdulkadirlevent/shop-app-with-getx" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/username=abdulkadirlevent&repo=shop-app-with-getx&theme=gruvbox"></a>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdulkadirlevent&theme=algolia)](https://github.com/abdulkadirlevent/shop-app-with-getx)
 
  ### Show some ❤️ by starring some of the repositories!
 
