@@ -36,9 +36,6 @@
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 
-
- ### Show some ❤️ by starring some of the repositories!
-
 <!--
 **abdulkadirlevent/abdulkadirlevent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
