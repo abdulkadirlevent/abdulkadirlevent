@@ -5,6 +5,18 @@
 
  ## Merhaba ben [Abdulkadir LEVENT!](https://leventler.net) 👋
  
+ ## :necktie: About Me
+
+> ##### _Common_ &nbsp; ![Linux][#linux] ![Git][#git] ![Github][#github] ![Gitlab][#gitlab] ![Jira Software][#jira-software] ![Markdown][#markdown]
+
+> ##### _Frontend_ &nbsp; ![HTML][#html] ![CSS][#css] ![Bootstrap][#bootstrap] ![JavaScript][#javascript]
+
+> ##### _DevOps_ &nbsp;&nbsp;&nbsp; ![Bash][#bash] ![Github Actions][#gh-actions] ![Gitlab CI/CD][#gl-cicd] ![Docker][#docker] ![Terraform][#terraform] ![AWS][#aws] ![Vagrant][#vagrant]
+
+> ##### _Learning_ &nbsp; ![Kubernetes][#kubernetes] ![Rancher][#rancher] ![Helm][#helm] ![Prometheus][#prometheus] ![Grafana][#grafana]
+
+> ##### _Up Next_ &nbsp;&nbsp; ![PostgresSQL][#postgresql] ![Ansible][#ansible] ![Jenkins][#jenkins] ![Go][#go]
+ 
 🔭 Şu anda üzerinde çalışıyorum ... 👋
 
 [![abdulkadirlevent github stats](https://github-readme-stats.vercel.app/api?username=abdulkadirlevent&show_icons=true&theme=algolia)](https://github.com/abdulkadirlevent)
