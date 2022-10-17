@@ -3,9 +3,8 @@
   <img src="https://raw.githubusercontent.com/abdulkadirlevent/abdulkadirlevent/master/name.svg" alt="Abdulkadir LEVENT" />
 </h1>
 
- ## Merhaba ben [Abdulkadir LEVENT!](https://leventler.net) 👋
+ ## :necktie: Merhaba ben [Abdulkadir LEVENT!](https://leventler.net) 👋
  
- ## :necktie: About Me
 > ##### _Common_ &nbsp; ![Linux][#linux] ![Git][#git] ![Github][#github] ![Gitlab][#gitlab] ![Jira Software][#jira-software] ![Markdown][#markdown]
 > ##### _Frontend_ &nbsp; ![HTML][#html] ![CSS][#css] ![Bootstrap][#bootstrap] ![JavaScript][#javascript]
 > ##### _DevOps_ &nbsp;&nbsp;&nbsp; ![Bash][#bash] ![Github Actions][#gh-actions] ![Gitlab CI/CD][#gl-cicd] ![Docker][#docker] ![Terraform][#terraform] ![AWS][#aws] ![Vagrant][#vagrant]
