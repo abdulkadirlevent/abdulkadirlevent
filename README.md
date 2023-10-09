@@ -11,8 +11,6 @@
 > ##### _Learning_ &nbsp; ![Kubernetes][#kubernetes] ![Rancher][#rancher] ![Helm][#helm] ![Prometheus][#prometheus] ![Grafana][#grafana]
 > ##### _Up Next_ &nbsp;&nbsp; ![PostgresSQL][#postgresql] ![Ansible][#ansible] ![Jenkins][#jenkins] ![Go][#go]
 
-🔭 Şu anda üzerinde çalışıyorum ... 👋
-
 [![abdulkadirlevent github stats](https://github-readme-stats.vercel.app/api?username=abdulkadirlevent&show_icons=true&theme=algolia)](https://github.com/abdulkadirlevent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadirlevent&theme=algolia)](https://github.com/abdulkadirlevent)
@@ -47,6 +45,7 @@
 
 ![abdulkadirlevent GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkadirlevent&count_private=true&show_icons=true&theme=chartreuse-dark)
 
+🔭 Şu anda üzerinde çalışıyorum ... 👋
 
 Here are some ideas to get you started:
 
