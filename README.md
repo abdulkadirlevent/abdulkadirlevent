@@ -14,7 +14,7 @@
 [![abdulkadirlevent github stats](https://github-readme-stats.vercel.app/api?username=abdulkadirlevent&show_icons=true&theme=algolia)](https://github.com/abdulkadirlevent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadirlevent&theme=algolia)](https://github.com/abdulkadirlevent)
-
+🔭 Şu anda üzerinde çalışıyorum ... 👋
 ## 🚀💻 Technologies & Tools
 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -40,7 +40,7 @@
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 
-🔭 Şu anda üzerinde çalışıyorum ... 👋
+
 
 <!--
 **abdulkadirlevent/abdulkadirlevent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
