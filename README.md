@@ -40,12 +40,12 @@
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 
+🔭 Şu anda üzerinde çalışıyorum ... 👋
+
 <!--
 **abdulkadirlevent/abdulkadirlevent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![abdulkadirlevent GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkadirlevent&count_private=true&show_icons=true&theme=chartreuse-dark)
-
-🔭 Şu anda üzerinde çalışıyorum ... 👋
 
 Here are some ideas to get you started:
 
